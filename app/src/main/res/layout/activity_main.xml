@@ -36,18 +36,18 @@
 
             <Button
                 android:id="@+id/button3A"
-                android:text="+3 POINTS"
+                android:text="@string/_3_points"
                 style="@style/btn_style" />
 
             <Button
                 android:id="@+id/button2A"
-                android:text="+2 POINTS"
+                android:text="@string/_2_points"
                 android:layout_margin="16dp"
                 style="@style/btn_style"/>
 
             <Button
                 android:id="@+id/button1A"
-                android:text="FREE THROW"
+                android:text="@string/free_throw"
                 android:layout_margin="16dp"
                 style="@style/btn_style"/>
         </LinearLayout>
@@ -80,19 +80,19 @@
 
             <Button
                 android:id="@+id/button3B"
-                android:text="+3 POINTS"
+                android:text="@string/_3_points"
                 android:layout_margin="16dp"
                 style="@style/btn_style"/>
 
             <Button
                 android:id="@+id/button2B"
-                android:text="+2 POINTS"
+                android:text="@string/_2_points"
                 android:layout_margin="16dp"
                 style="@style/btn_style"/>
 
             <Button
                 android:id="@+id/button1B"
-                android:text="FREE THROW"
+                android:text="@string/free_throw"
                 android:layout_margin="16dp"
                 style="@style/btn_style"/>
         </LinearLayout>
